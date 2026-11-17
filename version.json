@@ -1,8 +1,8 @@
 {
-  "version": "3.21.7",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.7/Hybrid-Setup-3.21.7.exe",
-  "sha256": "cd05494e7fe54e4276605edaf49a20c63f47ee639033e2738764b0d20a600aef",
-  "size": 136659379,
+  "version": "3.21.8",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.8/Hybrid-Setup-3.21.8.exe",
+  "sha256": "bc1669ec06382ac0755fb531dcf2bab09c39c5f18d7a8bb72666d4757b830a02",
+  "size": 136659377,
   "force": true,
-  "notes": "More reliable in-app updates: the installer now closes leftover Hybrid processes and retries."
+  "notes": "Update test build."
 }
