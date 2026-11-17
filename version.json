@@ -4,5 +4,5 @@
   "sha256": "6dfaef227257d4830fbea268ec654a47121d4194e779bf9eb00650b9472cfe52",
   "size": 136659503,
   "force": true,
-  "notes": "Updates now close Hybrid, install and reopen it automatically."
+  "notes": "If your Hybrid is older than 3.21.9 and Update does nothing, its updater is broken. Download and install the new app from https://mrrichydadev.github.io/hybrid-downloads/ (Hybrid-Setup.exe). Your settings and designs stay."
 }
