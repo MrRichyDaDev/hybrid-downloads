@@ -1,9 +1,9 @@
 {
-  "version": "3.21.11",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.11/Hybrid-Setup-3.21.11.exe",
-  "sha256": "a9cee5f5328042714c83bcdeb8a5ead1dd0350fa63e85d0f7fbd455ce5b4360d",
-  "size": 136663328,
+  "version": "3.21.13",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.13/Hybrid-Setup-3.21.13.exe",
+  "sha256": "3496c0f5e9c57074f9cc0da5ab1bc7fe84bc1a24c07580cc65fdd9e23818882c",
+  "size": 137301743,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Modeling exports GLB for Blender at one unit per stud and can send a joined mesh to Roblox Studio. Design can export frames as ImageLabels or ImageButtons, and the AI can review a recreation beside its reference."
+  "notes": "Square beveled Universal studs, bright cartoony UI by default with colored cartoon icons, and smarter AI UI guidance."
 }
