@@ -1,8 +1,8 @@
 {
-  "version": "3.21.8",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.8/Hybrid-Setup-3.21.8.exe",
-  "sha256": "bc1669ec06382ac0755fb531dcf2bab09c39c5f18d7a8bb72666d4757b830a02",
-  "size": 136659377,
+  "version": "3.21.9",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.9/Hybrid-Setup-3.21.9.exe",
+  "sha256": "6dfaef227257d4830fbea268ec654a47121d4194e779bf9eb00650b9472cfe52",
+  "size": 136659503,
   "force": true,
-  "notes": "Update test build."
+  "notes": "Updates now close Hybrid, install and reopen it automatically."
 }
