@@ -1,9 +1,9 @@
 {
-  "version": "3.21.22",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.22/Hybrid-Setup-3.21.22.exe",
-  "sha256": "146d7bf46c322095dfa682cfd03e4081eaf4f8d37c642250a04d371c8661e87c",
-  "size": 138687551,
+  "version": "3.21.23",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.23/Hybrid-Setup-3.21.23.exe",
+  "sha256": "27bbd583050982636dfc298b53c9d42f63a7e25b34f14e208b0de9df47fff08e",
+  "size": 138779383,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Refine with AI, icon library search, Blender-style model keys, lower token cost, fewer needless questions."
+  "notes": "Supercharge mode (model picker): unlimited steps, deep thinking, one-shot game recipe with genre blueprints, nature and stud asset catalog, verified sound search, deep research with the built-in browser. New SFX workspace. All models now follow a no-collision rule and can run scene_overlap_check. Animation workspace: smooth, exaggerate, calm, cubic ease, remove redundant keys, anticipation and settle, plus the anim_polish agent tool. Fixed a regex bug that had weakened prompts in 3.21.22."
 }
