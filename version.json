@@ -1,9 +1,9 @@
 {
-  "version": "3.21.15",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.15/Hybrid-Setup-3.21.15.exe",
-  "sha256": "c5d6b9ab060422879f1af58a7ac0cfe84b7cc85707d5b234e6221fbb22ab5965",
-  "size": 137313676,
+  "version": "3.21.17",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.17/Hybrid-Setup-3.21.17.exe",
+  "sha256": "c6c06e01df6317cb66c07959cd1de4df53faf32206538ae99ce826a83f981f28",
+  "size": 138675219,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Stud UI now uses alternating raised and recessed square studs in Design and Roblox exports. This update also improves editable shop layouts and adds a local icon catalog fallback when ChatGPT image generation is unavailable."
+  "notes": "Hybrid has a redesigned monochrome interface, four-angle model review, automatic VFX framing and peak navigation, and a front-and-side animation pose review."
 }
