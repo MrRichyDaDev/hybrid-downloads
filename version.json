@@ -1,9 +1,9 @@
 {
-  "version": "3.21.20",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.20/Hybrid-Setup-3.21.20.exe",
-  "sha256": "b5805cff14d38aeb01a9322505231b64ea0843ddfa1ac7ac9de693ed76cafd0a",
-  "size": 138679324,
+  "version": "3.21.21",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.21/Hybrid-Setup-3.21.21.exe",
+  "sha256": "3808b15542a82f115b3c470060df925ac0ec89c3bffb708ea752cb347368aaf1",
+  "size": 138685456,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Switch models and adjust thinking effort in one picker. Design adds canvas focus and review, and Model adds proportional resizing. Hybrid asks for clarification when it needs a missing detail."
+  "notes": "New ChatGPT-style model picker, Lighting workspace, UI effects assets, leaner prompts."
 }
