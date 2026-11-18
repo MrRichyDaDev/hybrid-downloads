@@ -1,9 +1,9 @@
 {
-  "version": "3.21.17",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.17/Hybrid-Setup-3.21.17.exe",
-  "sha256": "c6c06e01df6317cb66c07959cd1de4df53faf32206538ae99ce826a83f981f28",
-  "size": 138675219,
+  "version": "3.21.20",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.20/Hybrid-Setup-3.21.20.exe",
+  "sha256": "b5805cff14d38aeb01a9322505231b64ea0843ddfa1ac7ac9de693ed76cafd0a",
+  "size": 138679324,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Hybrid has a redesigned monochrome interface, four-angle model review, automatic VFX framing and peak navigation, and a front-and-side animation pose review."
+  "notes": "Switch models and adjust thinking effort in one picker. Design adds canvas focus and review, and Model adds proportional resizing. Hybrid asks for clarification when it needs a missing detail."
 }
