@@ -1,9 +1,9 @@
 {
-  "version": "3.21.21",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.21/Hybrid-Setup-3.21.21.exe",
-  "sha256": "3808b15542a82f115b3c470060df925ac0ec89c3bffb708ea752cb347368aaf1",
-  "size": 138685456,
+  "version": "3.21.22",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.22/Hybrid-Setup-3.21.22.exe",
+  "sha256": "146d7bf46c322095dfa682cfd03e4081eaf4f8d37c642250a04d371c8661e87c",
+  "size": 138687551,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "New ChatGPT-style model picker, Lighting workspace, UI effects assets, leaner prompts."
+  "notes": "Refine with AI, icon library search, Blender-style model keys, lower token cost, fewer needless questions."
 }
