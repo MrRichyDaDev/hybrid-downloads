@@ -1,9 +1,9 @@
 {
-  "version": "3.21.23",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.23/Hybrid-Setup-3.21.23.exe",
-  "sha256": "27bbd583050982636dfc298b53c9d42f63a7e25b34f14e208b0de9df47fff08e",
-  "size": 138779383,
+  "version": "3.21.24",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.24/Hybrid-Setup-3.21.24.exe",
+  "sha256": "ea5c2391a0cee3b7d172c5bc6a59e07fed6d065e9c1c86928171008bdb5911af",
+  "size": 138781470,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Supercharge mode (model picker): unlimited steps, deep thinking, one-shot game recipe with genre blueprints, nature and stud asset catalog, verified sound search, deep research with the built-in browser. New SFX workspace. All models now follow a no-collision rule and can run scene_overlap_check. Animation workspace: smooth, exaggerate, calm, cubic ease, remove redundant keys, anticipation and settle, plus the anim_polish agent tool. Fixed a regex bug that had weakened prompts in 3.21.22."
+  "notes": "Agents now use the new tools: anim_polish, vfx_tune, model_separate and scene_overlap_check, taught in the main prompt and every workspace guide. New workspace tools: VFX Tune menu, Model Separate overlapping groups, Design Match sizes."
 }
