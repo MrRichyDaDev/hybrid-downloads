@@ -1,9 +1,9 @@
 {
-  "version": "3.21.28",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.28/Hybrid-Setup-3.21.28.exe",
-  "sha256": "e2a072f0a639bef659418de2b3187de2937da9cd249077c1aaa8673470d4cc3a",
-  "size": 138809224,
+  "version": "3.21.29",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.29/Hybrid-Setup-3.21.29.exe",
+  "sha256": "b477bda2ae8a0080f3fb21f8b8dceb9a7a34ebe462fa845bcc8c53128b78f774",
+  "size": 138814536,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "New Toolbox (Ctrl+Shift+T) with 207 offline tools: 123 Luau snippets, converters, calculators, 20 checklists and 33 prompt boosters. Also prompt history, saved prompts, notes, activity log, focus mode, interface zoom, backup and restore, shortcut sheet and draft autosave."
+  "notes": "Reference library: attach pictures and video frames (Refs button, Ctrl+Shift+R). Cheaper Supercharge and Ultra: shorter note, new pet_roll scaffold, Pet RNG blueprint, tools shown only when needed."
 }
