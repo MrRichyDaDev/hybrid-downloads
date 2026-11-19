@@ -1,9 +1,9 @@
 {
-  "version": "3.21.27",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.27/Hybrid-Setup-3.21.27.exe",
-  "sha256": "fe2070b3efbfcfa4e934c3c67757aeab0475ad65ad5477d91bf0005bf8506ce5",
-  "size": 138788277,
+  "version": "3.21.28",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.28/Hybrid-Setup-3.21.28.exe",
+  "sha256": "e2a072f0a639bef659418de2b3187de2937da9cd249077c1aaa8673470d4cc3a",
+  "size": 138809224,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Interface polish across every workspace: clearer active states, gradient top bars, refined cards and scrollbars. The update dialog now shows Hybrid 1.0.0."
+  "notes": "New Toolbox (Ctrl+Shift+T) with 207 offline tools: 123 Luau snippets, converters, calculators, 20 checklists and 33 prompt boosters. Also prompt history, saved prompts, notes, activity log, focus mode, interface zoom, backup and restore, shortcut sheet and draft autosave."
 }
