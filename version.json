@@ -1,9 +1,9 @@
 {
-  "version": "3.21.29",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.29/Hybrid-Setup-3.21.29.exe",
-  "sha256": "b477bda2ae8a0080f3fb21f8b8dceb9a7a34ebe462fa845bcc8c53128b78f774",
-  "size": 138814536,
+  "version": "3.21.30",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.30/Hybrid-Setup-3.21.30.exe",
+  "sha256": "5d83c37c314b3e9ee21df003c195a4541ced1b823487b39bb7992386490d0cb3",
+  "size": 138832873,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Reference library: attach pictures and video frames (Refs button, Ctrl+Shift+R). Cheaper Supercharge and Ultra: shorter note, new pet_roll scaffold, Pet RNG blueprint, tools shown only when needed."
+  "notes": "Map-first building: the AI draws a top-down map layout and waits for your Approve before placing anything. Model workspace exports GLB, OBJ, STL and PLY with Blender, Unity, Godot, Unreal, web and print scales, plus a blockout-to-export pipeline. 7 more UI themes (comic, steampunk, western, candy, vaporwave, mono, paper) and custom styles; UI no longer defaults to studs. Multi-agent helpers, model and VFX recipes, 16 new animation presets. Lower token cost per request."
 }
