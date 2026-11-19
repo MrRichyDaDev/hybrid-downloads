@@ -1,9 +1,9 @@
 {
-  "version": "3.21.25",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.25/Hybrid-Setup-3.21.25.exe",
-  "sha256": "781e42cf6832e7d3cef87b354fb5db7ddb8315fefca3cb529a14549a8a6ec17f",
-  "size": 138785990,
+  "version": "3.21.26",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.26/Hybrid-Setup-3.21.26.exe",
+  "sha256": "4049a7836aaa3cdccbafa91a97148f90a481ccbdc15f1402f2d11d91af0b7127",
+  "size": 138788171,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Supercharge: new game_blueprint tool (obby, tycoon, simulator, tower defense, fighting, horror, racing, adventure). Six new lighting presets, three new SFX categories, two new built-in skills."
+  "notes": "AI now asks sharp questions for broad requests, and can search for free CC0 assets online with find_free_asset when something is missing. New GFX recolor and palette tools. Interface polish across every workspace."
 }
