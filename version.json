@@ -1,9 +1,9 @@
 {
-  "version": "3.21.31",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.31/Hybrid-Setup-3.21.31.exe",
-  "sha256": "4f6d4039921c2514408c864e7a13b4bd3124687be0859a7a5d88d2dbad926bba",
-  "size": 138849860,
+  "version": "3.21.32",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.32/Hybrid-Setup-3.21.32.exe",
+  "sha256": "8f09be933182d7f09cbbc378eecb8bbbf08644f36b170e3dd699725a76d47521",
+  "size": 138854727,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Model workspace: Create dialog (style, detail, target, 3 options), a five-step pipeline bar, turntable, and export for Blender, Unity, Godot, Unreal and 3D printing. Animation: preset categories and one-click Calm, Punchy, Floaty and Snappy feels. App-wide UI polish: one selection style, slimmer sliders, focus rings, tidier Light, SFX, VFX and Icons screens, style-neutral home templates plus three themed ones. Map layouts recover from bad coordinates, and icon search falls back online for partial matches."
+  "notes": "Better voice dictation: the mic button now listens inside the app (offline), shows your words live, understands spoken punctuation, 'new line', 'scratch that', and 'send it'. Falls back to Windows voice typing if the mic is unavailable. Also model/animation workspace upgrades, map-first builds, online icons, more UI themes, and UI polish."
 }
