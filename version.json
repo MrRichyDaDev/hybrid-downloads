@@ -1,9 +1,9 @@
 {
-  "version": "3.21.30",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.30/Hybrid-Setup-3.21.30.exe",
-  "sha256": "5d83c37c314b3e9ee21df003c195a4541ced1b823487b39bb7992386490d0cb3",
-  "size": 138832873,
+  "version": "3.21.31",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.31/Hybrid-Setup-3.21.31.exe",
+  "sha256": "4f6d4039921c2514408c864e7a13b4bd3124687be0859a7a5d88d2dbad926bba",
+  "size": 138849860,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Map-first building: the AI draws a top-down map layout and waits for your Approve before placing anything. Model workspace exports GLB, OBJ, STL and PLY with Blender, Unity, Godot, Unreal, web and print scales, plus a blockout-to-export pipeline. 7 more UI themes (comic, steampunk, western, candy, vaporwave, mono, paper) and custom styles; UI no longer defaults to studs. Multi-agent helpers, model and VFX recipes, 16 new animation presets. Lower token cost per request."
+  "notes": "Model workspace: Create dialog (style, detail, target, 3 options), a five-step pipeline bar, turntable, and export for Blender, Unity, Godot, Unreal and 3D printing. Animation: preset categories and one-click Calm, Punchy, Floaty and Snappy feels. App-wide UI polish: one selection style, slimmer sliders, focus rings, tidier Light, SFX, VFX and Icons screens, style-neutral home templates plus three themed ones. Map layouts recover from bad coordinates, and icon search falls back online for partial matches."
 }
