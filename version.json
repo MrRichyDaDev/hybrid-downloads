@@ -1,9 +1,9 @@
 {
-  "version": "3.21.32",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.32/Hybrid-Setup-3.21.32.exe",
-  "sha256": "8f09be933182d7f09cbbc378eecb8bbbf08644f36b170e3dd699725a76d47521",
-  "size": 138854727,
+  "version": "3.21.33",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.33/Hybrid-Setup-3.21.33.exe",
+  "sha256": "8af7d063bde52a9db9cdf93f0e1463e50e48882441b0542d4d19322b11f8f1aa",
+  "size": 138864049,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Better voice dictation: the mic button now listens inside the app (offline), shows your words live, understands spoken punctuation, 'new line', 'scratch that', and 'send it'. Falls back to Windows voice typing if the mic is unavailable. Also model/animation workspace upgrades, map-first builds, online icons, more UI themes, and UI polish."
+  "notes": "Start with quick access to Design and AI setup, then browse 252 stud prop variants across seven themed packs. Add props to a prompt and let Hybrid place them in your map with overlap checks."
 }
