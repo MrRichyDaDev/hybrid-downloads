@@ -1,9 +1,9 @@
 {
-  "version": "3.21.37",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.37/Hybrid-Setup-3.21.37.exe",
-  "sha256": "14127da57e32617ea23be206a0cd490a05fc707a4be644458f9e0cd110fb8955",
-  "size": 138908567,
+  "version": "3.21.40",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.40/Hybrid-Setup-3.21.40.exe",
+  "sha256": "3b78b285086f8f21dc478daf4b4a1f82c59721069e7bebc4696a867c09987731",
+  "size": 138943881,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Add glints, sparkles, animated outlines, and typing in the Design Motion inspector. Build editable meshes along curved paths and add gradients to GFX artwork."
+  "notes": "New Apple-style look with Midnight, Obsidian and Slate themes. Model Library now has a prop browser with 31 props, 5 styles, size and options, plus Add 5 styles and Scatter many. Model snapshots with an automatic snapshot before each AI change, a prompt library, and game notes. New model checks (part budget, default names, ground contact). Fixed rotated and scaled props breaking apart and several prop defects."
 }
