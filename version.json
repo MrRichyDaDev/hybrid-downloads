@@ -1,9 +1,9 @@
 {
-  "version": "3.21.33",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.33/Hybrid-Setup-3.21.33.exe",
-  "sha256": "8af7d063bde52a9db9cdf93f0e1463e50e48882441b0542d4d19322b11f8f1aa",
-  "size": 138864049,
+  "version": "3.21.36",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.36/Hybrid-Setup-3.21.36.exe",
+  "sha256": "00ef873b91d1471f8c19c569cbabebb8861589ce461140509b288977aa34e2e9",
+  "size": 138896590,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Start with quick access to Design and AI setup, then browse 252 stud prop variants across seven themed packs. Add props to a prompt and let Hybrid place them in your map with overlap checks."
+  "notes": "13 new ready-made props (hydrant, mailbox, dumpster, traffic light, billboard, vending machine, bus stop, skyscraper, gas station, pier, lighthouse, windmill, sword), smarter prop name matching, Roblox limits in the modeling guide, dictation that writes Roblox terms correctly (Luau, RemoteEvent, DataStore), and a fix for the VFX top bar on small windows."
 }
