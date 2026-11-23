@@ -1,9 +1,9 @@
 {
-  "version": "3.21.36",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.36/Hybrid-Setup-3.21.36.exe",
-  "sha256": "00ef873b91d1471f8c19c569cbabebb8861589ce461140509b288977aa34e2e9",
-  "size": 138896590,
+  "version": "3.21.37",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.37/Hybrid-Setup-3.21.37.exe",
+  "sha256": "14127da57e32617ea23be206a0cd490a05fc707a4be644458f9e0cd110fb8955",
+  "size": 138908567,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Create hollow meshes and check their topology, build portrait shops with interactive pages, and route map corridors around more obstacles. This update also improves performance in Model, Design, Animation, VFX, SFX, and map-prop search."
+  "notes": "Add glints, sparkles, animated outlines, and typing in the Design Motion inspector. Build editable meshes along curved paths and add gradients to GFX artwork."
 }
