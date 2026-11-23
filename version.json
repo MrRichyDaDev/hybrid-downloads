@@ -1,9 +1,9 @@
 {
-  "version": "3.21.40",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.40/Hybrid-Setup-3.21.40.exe",
-  "sha256": "3b78b285086f8f21dc478daf4b4a1f82c59721069e7bebc4696a867c09987731",
-  "size": 138943881,
+  "version": "3.21.41",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.41/Hybrid-Setup-3.21.41.exe",
+  "sha256": "b9d4633577ca8a5ee0f6d7b9bb96a3c5738fea32bba37982d44ca70b2bed4712",
+  "size": 138948900,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "New Apple-style look with Midnight, Obsidian and Slate themes. Model Library now has a prop browser with 31 props, 5 styles, size and options, plus Add 5 styles and Scatter many. Model snapshots with an automatic snapshot before each AI change, a prompt library, and game notes. New model checks (part budget, default names, ground contact). Fixed rotated and scaled props breaking apart and several prop defects."
+  "notes": "A new Charcoal look with four grayscale themes. Use your connected ChatGPT plan to create or edit icons and widescreen thumbnails from a reference. Without ChatGPT connected, Hybrid finds matching artwork in its expanded local library."
 }
