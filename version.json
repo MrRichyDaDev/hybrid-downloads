@@ -5,5 +5,5 @@
   "size": 138896590,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "13 new ready-made props (hydrant, mailbox, dumpster, traffic light, billboard, vending machine, bus stop, skyscraper, gas station, pier, lighthouse, windmill, sword), smarter prop name matching, Roblox limits in the modeling guide, dictation that writes Roblox terms correctly (Luau, RemoteEvent, DataStore), and a fix for the VFX top bar on small windows."
+  "notes": "Create hollow meshes and check their topology, build portrait shops with interactive pages, and route map corridors around more obstacles. This update also improves performance in Model, Design, Animation, VFX, SFX, and map-prop search."
 }
