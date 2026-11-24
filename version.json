@@ -1,9 +1,9 @@
 {
-  "version": "3.21.47",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.47/Hybrid-Setup-3.21.47.exe",
-  "sha256": "5df7da20e7f3e5152aeaeb1d5c84ae930a877651cb4cb89a45a76f59807c744c",
-  "size": 138970234,
+  "version": "3.21.48",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.48/Hybrid-Setup-3.21.48.exe",
+  "sha256": "5669722ae4f69a50ee46c6baed9e29076919087565f4c3c6d6d02a87be8c05ee",
+  "size": 138972275,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Better reference and copy checks, scoped UI edits, verified Studio mesh imports, player-height map checks, animation contact tools, timed sound mixes, and fewer repeated workspace previews."
+  "notes": "Duplicate editable models, build meshes from front and side references, plan original games in custom genres, and build validated maps without an automatic approval pause."
 }
