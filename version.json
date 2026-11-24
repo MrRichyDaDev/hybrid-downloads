@@ -1,9 +1,9 @@
 {
-  "version": "3.21.45",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.45/Hybrid-Setup-3.21.45.exe",
-  "sha256": "a244a520239eb3fd54438b7e8ed92c6166c6733f3c634be26a37a1225c15a7c1",
-  "size": 138964075,
+  "version": "3.21.46",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.46/Hybrid-Setup-3.21.46.exe",
+  "sha256": "2b3cb19ce08eef1a12f44f8936298628327e2c7b74826f98317fc3c902711175",
+  "size": 138963957,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Imported game icon pack: a My game icons tab in the Icons workspace, and Hybrid places those icons in Design."
+  "notes": "Hybrid now checks unsure Roblox API names, computes exact math with tools, keeps a requirements checklist, and splits Verified from Untested in its final report."
 }
