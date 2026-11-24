@@ -1,9 +1,9 @@
 {
-  "version": "3.21.44",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.44/Hybrid-Setup-3.21.44.exe",
-  "sha256": "d6dc6e1edc5626c088f21101175eadaae701e221cee3d2d8877d9609dfa5f965",
-  "size": 138961524,
+  "version": "3.21.45",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.45/Hybrid-Setup-3.21.45.exe",
+  "sha256": "a244a520239eb3fd54438b7e8ed92c6166c6733f3c634be26a37a1225c15a7c1",
+  "size": 138964075,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Project tools adds selective restore points, image retries, and editable starter projects. The update also adds animation cleanup, VFX visibility checks, sound and artwork previews, and better modeling and map tools."
+  "notes": "Imported game icon pack: a My game icons tab in the Icons workspace, and Hybrid places those icons in Design."
 }
