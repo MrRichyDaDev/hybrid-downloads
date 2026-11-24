@@ -1,9 +1,9 @@
 {
-  "version": "3.21.41",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.41/Hybrid-Setup-3.21.41.exe",
-  "sha256": "b9d4633577ca8a5ee0f6d7b9bb96a3c5738fea32bba37982d44ca70b2bed4712",
-  "size": 138948900,
+  "version": "3.21.42",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.42/Hybrid-Setup-3.21.42.exe",
+  "sha256": "858c82e85cfd28c8a2589d06bf794345e6e8d28045544fe35b5ca7938f667705",
+  "size": 138948817,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "A new Charcoal look with four grayscale themes. Use your connected ChatGPT plan to create or edit icons and widescreen thumbnails from a reference. Without ChatGPT connected, Hybrid finds matching artwork in its expanded local library."
+  "notes": "Faster, leaner prompts: about 7 percent fewer tokens per request with the same rules. Code fixes now repair Instance.new parent assignments and strip trailing comments."
 }
