@@ -1,9 +1,9 @@
 {
-  "version": "3.21.46",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.46/Hybrid-Setup-3.21.46.exe",
-  "sha256": "2b3cb19ce08eef1a12f44f8936298628327e2c7b74826f98317fc3c902711175",
-  "size": 138963957,
+  "version": "3.21.47",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.47/Hybrid-Setup-3.21.47.exe",
+  "sha256": "5df7da20e7f3e5152aeaeb1d5c84ae930a877651cb4cb89a45a76f59807c744c",
+  "size": 138970234,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Hybrid now checks unsure Roblox API names, computes exact math with tools, keeps a requirements checklist, and splits Verified from Untested in its final report."
+  "notes": "Better reference and copy checks, scoped UI edits, verified Studio mesh imports, player-height map checks, animation contact tools, timed sound mixes, and fewer repeated workspace previews."
 }
