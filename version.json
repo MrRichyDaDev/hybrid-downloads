@@ -1,9 +1,9 @@
 {
-  "version": "3.21.48",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.48/Hybrid-Setup-3.21.48.exe",
-  "sha256": "5669722ae4f69a50ee46c6baed9e29076919087565f4c3c6d6d02a87be8c05ee",
-  "size": 138972275,
+  "version": "3.21.49",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.49/Hybrid-Setup-3.21.49.exe",
+  "sha256": "a93f5335a235a0c8b5eb7c3734d87b4452a49e892c7eda2b19a7736b3c34719f",
+  "size": 138972241,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Duplicate editable models, build meshes from front and side references, plan original games in custom genres, and build validated maps without an automatic approval pause."
+  "notes": "Lighter long chats (old screenshots dropped, earlier trimming), three new automatic modeling checks (hidden parts, left/right pairs, scale), plus model duplication, silhouette traces and map build improvements."
 }
