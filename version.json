@@ -1,9 +1,9 @@
 {
-  "version": "3.21.55",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.55/Hybrid-Setup-3.21.55.exe",
-  "sha256": "2c9d4c70d3d190f624cfa0873706d79b422aef652fa9a4e79d891c1555abb98c",
-  "size": 202682464,
+  "version": "3.21.56",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.56/Hybrid-Setup-3.21.56.exe",
+  "sha256": "ff1a6bd38debd673526bda14265eb45793275916b0e19bd4098d19c9ee836dab",
+  "size": 202682547,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Hybrid has a wider, collapsible chat panel, top workspace tabs, illustrated onboarding, new Model controls, and searchable Claude and ChatGPT model lists."
+  "notes": "Use the compact Chat button beside the Hybrid logo to open or hide the right-side chat from any workspace."
 }
