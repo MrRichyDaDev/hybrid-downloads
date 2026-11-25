@@ -1,9 +1,9 @@
 {
-  "version": "3.21.52",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.52/Hybrid-Setup-3.21.52.exe",
-  "sha256": "8f1f5ef465adfe38938a7d7a620c639aed948c1955bc25ac99386fe71ed6e3cc",
-  "size": 201008806,
+  "version": "3.21.55",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.55/Hybrid-Setup-3.21.55.exe",
+  "sha256": "2c9d4c70d3d190f624cfa0873706d79b422aef652fa9a4e79d891c1555abb98c",
+  "size": 202682464,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Hybrid checks for an open Roblox Studio place before each AI prompt, offers to send supported workspace builds into Studio, and adds GitHub Copilot as the third AI option."
+  "notes": "Hybrid has a wider, collapsible chat panel, top workspace tabs, illustrated onboarding, new Model controls, and searchable Claude and ChatGPT model lists."
 }
