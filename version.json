@@ -1,9 +1,9 @@
 {
-  "version": "3.21.56",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.56/Hybrid-Setup-3.21.56.exe",
-  "sha256": "ff1a6bd38debd673526bda14265eb45793275916b0e19bd4098d19c9ee836dab",
-  "size": 202682547,
+  "version": "3.21.57",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.57/Hybrid-Setup-3.21.57.exe",
+  "sha256": "2a7dff7567e09d19b2b37022b8d248e750dffc9104f53a21a6760042d3d851c9",
+  "size": 202681141,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Use the compact Chat button beside the Hybrid logo to open or hide the right-side chat from any workspace."
+  "notes": "Hybrid returns to the classic layout with workspaces on the left and chat in the center of Build."
 }
