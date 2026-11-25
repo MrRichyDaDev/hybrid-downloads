@@ -1,9 +1,9 @@
 {
-  "version": "3.21.51",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.51/Hybrid-Setup-3.21.51.exe",
-  "sha256": "9f129e3845b8ea4204aa615fb57ea0cd6310ba1ae17ad99f728e8290ac421cd0",
-  "size": 138979643,
+  "version": "3.21.52",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.52/Hybrid-Setup-3.21.52.exe",
+  "sha256": "8f1f5ef465adfe38938a7d7a620c639aed948c1955bc25ac99386fe71ed6e3cc",
+  "size": 201008806,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Set up a solo, team, or studio profile, share editable UI and 3D packs from the Add-ons workspace, and choose which workspace opens at launch."
+  "notes": "Hybrid checks for an open Roblox Studio place before each AI prompt, offers to send supported workspace builds into Studio, and adds GitHub Copilot as the third AI option."
 }
