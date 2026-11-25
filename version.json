@@ -1,9 +1,9 @@
 {
-  "version": "3.21.49",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.49/Hybrid-Setup-3.21.49.exe",
-  "sha256": "a93f5335a235a0c8b5eb7c3734d87b4452a49e892c7eda2b19a7736b3c34719f",
-  "size": 138972241,
+  "version": "3.21.51",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.51/Hybrid-Setup-3.21.51.exe",
+  "sha256": "9f129e3845b8ea4204aa615fb57ea0cd6310ba1ae17ad99f728e8290ac421cd0",
+  "size": 138979643,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Lighter long chats (old screenshots dropped, earlier trimming), three new automatic modeling checks (hidden parts, left/right pairs, scale), plus model duplication, silhouette traces and map build improvements."
+  "notes": "Set up a solo, team, or studio profile, share editable UI and 3D packs from the Add-ons workspace, and choose which workspace opens at launch."
 }
