@@ -1,9 +1,9 @@
 {
-  "version": "3.21.57",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.57/Hybrid-Setup-3.21.57.exe",
-  "sha256": "2a7dff7567e09d19b2b37022b8d248e750dffc9104f53a21a6760042d3d851c9",
-  "size": 202681141,
+  "version": "3.21.59",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.59/Hybrid-Setup-3.21.59.exe",
+  "sha256": "7a795d122131a1d97e9b6f91f62271d720c59b275590f2c8acec2f3caa4b6888",
+  "size": 202680758,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Hybrid returns to the classic layout with workspaces on the left and chat in the center of Build."
+  "notes": "A refreshed Build screen, drafts that stay with their chats, text search in Design, and part visibility controls in Model."
 }
