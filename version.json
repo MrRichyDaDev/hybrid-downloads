@@ -1,9 +1,9 @@
 {
-  "version": "3.21.65",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.65/Hybrid-Setup-3.21.65.exe",
-  "sha256": "9817655a81866517b998be66d71ad948d926e27b175a51b07a57a5bd0d9a94a4",
-  "size": 202702334,
+  "version": "3.21.71",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.71/Hybrid-Setup-3.21.71.exe",
+  "sha256": "1fe5312dcf7ef9ebdf233ee6ea7f76e7de6d06577b5a5f50ab1a6e115b5341df",
+  "size": 201477910,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "A cleaner Build workspace with a collapsible history sidebar, improved local model editing, and better preservation of requested Design titles."
+  "notes": "New picture cards on the home screen, smaller prompt boxes and smoother motion. Effect recipes now include flashes, shockwave rings, light beams, bolts and slashes, with a better preview. The animation preview has a new lit stage and hand and foot motion trails. Modeling adds smooth, low poly, semi-realistic and realistic sculpt styles, painted surface shading for mesh parts, and a Render button."
 }
