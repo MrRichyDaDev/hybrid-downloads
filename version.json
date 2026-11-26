@@ -1,9 +1,9 @@
 {
-  "version": "3.21.64",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.64/Hybrid-Setup-3.21.64.exe",
-  "sha256": "d7d867b8a1df29d355bd2003d51b855fd723f8c1901627a41b4cb467719396bf",
-  "size": 202700939,
+  "version": "3.21.65",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.65/Hybrid-Setup-3.21.65.exe",
+  "sha256": "9817655a81866517b998be66d71ad948d926e27b175a51b07a57a5bd0d9a94a4",
+  "size": 202702334,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Run local Ollama models, use an optional local helper with Claude or ChatGPT, get task notifications, and approve Studio actions in Hybrid."
+  "notes": "A cleaner Build workspace with a collapsible history sidebar, improved local model editing, and better preservation of requested Design titles."
 }
