@@ -23,6 +23,10 @@ h1{font-size:44px;line-height:1.1;margin:0 0 12px;letter-spacing:-.5px}
 .dl{display:inline-block;background:var(--fg);color:#000;font-weight:700;font-size:17px;padding:13px 26px;text-decoration:none;border:1px solid var(--fg)}
 .dl:hover{background:#000;color:var(--fg)}
 .meta{font-size:13px;color:var(--dim);margin-top:10px}
+.install-link{display:inline-block;margin:12px 0 0;color:var(--fg);text-underline-offset:3px}
+.install-heading{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.install-heading a{color:var(--dim);font-size:13px}
+:focus-visible{outline:2px solid var(--fg);outline-offset:4px}
 .hero img{width:150px;height:150px;flex:none}
 h3{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--dim);margin:30px 0 10px;font-weight:600}
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:10px}
@@ -42,13 +46,26 @@ footer{margin-top:32px;color:var(--dim);font-size:12px}
 <main>
   <section class="hero">
     <div>
-      <h1>What do you want to build?</h1>
-      <p>Design Roblox UI, edit models, animate rigs, and create effects and clothing in Hybrid. Connect Claude or ChatGPT for AI help and send supported assets to Roblox Studio. Made by Clarity Studio.</p>
-      <a class="dl" href="https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.61/Hybrid-Setup-3.21.61.exe">Download for Windows</a>
-      <div class="meta">Version 3.21.61 &middot; 193 MB &middot; Windows 10 or 11</div>
+      <h1>Hybrid for Roblox Studio</h1>
+      <p>Build game UI, editable meshes, animations, and effects. Connect an AI model when you want help.</p>
+      <a class="dl" href="https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.64/Hybrid-Setup-3.21.64.exe">Download for Windows</a>
+      <div class="meta">Version 3.21.64 &middot; 193 MB &middot; Windows 10 or 11</div>
+      <a class="install-link" href="#install">See install steps</a>
     </div>
     <img src="icon.png" alt="Hybrid">
   </section>
+
+  <div class="install-heading" id="install">
+    <h3>Install Hybrid</h3>
+    <a href="https://github.com/MrRichyDaDev/hybrid-downloads/releases/latest">View release on GitHub</a>
+  </div>
+  <div class="card">
+    <ol>
+      <li>Click <b>Download for Windows</b>, then open <b>Hybrid-Setup-3.21.64.exe</b> from Downloads.</li>
+      <li>Follow the setup prompts, then open <b>Hybrid</b> from the Start menu.</li>
+      <li>Choose <b>Settings</b> to connect Claude or ChatGPT, or select <b>Local models</b> if you use Ollama. If you already use Hybrid, open <b>Update</b> in the app.</li>
+    </ol>
+  </div>
 
   <h3>Workspaces</h3>
   <div class="grid">
@@ -59,18 +76,9 @@ footer{margin-top:32px;color:var(--dim);font-size:12px}
     <div><b>GFX</b><span>Draw or generate backgrounds, icons, decals and classic clothing</span></div>
   </div>
 
-  <h3>What’s new in 3.21.61</h3>
-  <div class="card">Create editable meshes from outlines with through-cutouts, extrude connected faces, and capture references with the built-in browser.</div>
+  <h3>What’s new in 3.21.64</h3>
+  <div class="card">Run local Ollama models, use an optional local helper with Claude or ChatGPT, get task notifications, and approve Studio actions in Hybrid.</div>
 
-  <h3>How to install</h3>
-  <div class="card">
-    <ol>
-      <li>Click Download and open <b>Hybrid-Setup-3.21.61.exe</b>.</li>
-      <li>Windows may show a publisher warning because the installer is unsigned.</li>
-      <li>Click <b>Next</b> until it finishes. A Hybrid shortcut appears on your desktop.</li>
-      <li>Open Hybrid. Use <b>Setup</b> to connect Claude or ChatGPT for AI features.</li>
-    </ol>
-  </div>
   <footer>Hybrid is not made by or affiliated with Roblox. Roblox is a trademark of Roblox Corporation.</footer>
 </main>
 </body>
