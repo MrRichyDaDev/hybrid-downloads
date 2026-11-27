@@ -1,85 +1,94 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Hybrid for Roblox Studio</title>
-<meta name="description" content="Hybrid builds Roblox UI, models, effects and animations with AI. Free download for Windows.">
-<link rel="icon" href="icon.png">
-<style>
-:root{--bg:#141414;--rail:#0f0f0f;--panel:#1b1b1b;--panel2:#222;--line:#333;--line2:#444;--fg:#f2f2f2;--dim:#9a9a9a}
-*{box-sizing:border-box;border-radius:0}
-body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 "Segoe UI Variable Text","Segoe UI",system-ui,sans-serif;display:flex;min-height:100vh}
-.rail{width:72px;background:var(--rail);border-right:1px solid var(--line);display:flex;flex-direction:column;align-items:center;padding:14px 0;gap:6px;flex:none}
-.rail img{width:34px;height:34px;margin-bottom:14px}
-.rail span{font-size:11px;color:var(--dim);padding:8px 0;width:100%;text-align:center}
-.rail span.on{color:var(--fg);background:var(--panel2);border-left:2px solid var(--fg)}
-main{flex:1;max-width:1040px;padding:24px 24px 64px;margin:0 auto;min-width:0}
-.hero{border:1px solid var(--line);background:var(--panel);background-image:linear-gradient(var(--line) 1px,transparent 1px),linear-gradient(90deg,var(--line) 1px,transparent 1px);background-size:32px 32px;background-position:-1px -1px;display:flex;align-items:center;justify-content:space-between;gap:24px;padding:40px;position:relative}
-.hero::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,var(--panel) 35%,rgba(27,27,27,.75))}
-.hero>*{position:relative}
-h1{font-size:44px;line-height:1.1;margin:0 0 12px;letter-spacing:-.5px}
-.hero p{color:var(--dim);margin:0 0 22px;max-width:440px}
-.dl{display:inline-block;background:var(--fg);color:#000;font-weight:700;font-size:17px;padding:13px 26px;text-decoration:none;border:1px solid var(--fg)}
-.dl:hover{background:#000;color:var(--fg)}
-.meta{font-size:13px;color:var(--dim);margin-top:10px}
-.install-link{display:inline-block;margin:12px 0 0;color:var(--fg);text-underline-offset:3px}
-.install-heading{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap}
-.install-heading a{color:var(--dim);font-size:13px}
-:focus-visible{outline:2px solid var(--fg);outline-offset:4px}
-.hero img{width:150px;height:150px;flex:none}
-h3{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--dim);margin:30px 0 10px;font-weight:600}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:10px}
-.grid div{border:1px solid var(--line);background:var(--panel);padding:14px 16px}
-.grid b{display:block;margin-bottom:2px}
-.grid span{color:var(--dim);font-size:13px}
-.card{border:1px solid var(--line);background:var(--panel);padding:20px}
-.card ol{margin:0;padding-left:22px}
-.card li{margin:8px 0}
-.card small{color:var(--dim)}
-footer{margin-top:32px;color:var(--dim);font-size:12px}
-@media(max-width:640px){.rail{display:none}.hero{flex-direction:column;align-items:flex-start;padding:24px}.hero img{width:90px;height:90px}h1{font-size:34px}main{padding:16px}}
-</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Download Hybrid for Windows to design game UI, edit 3D meshes, and create effects for Roblox Studio.">
+  <meta name="theme-color" content="#141313">
+  <title>Hybrid | Create for Roblox Studio</title>
+  <link rel="icon" type="image/png" href="assets/hybrid-cloud.png">
+  <link rel="stylesheet" href="site.css">
+  <script src="site.js" defer></script>
 </head>
-<body>
-<nav class="rail"><img src="icon.png" alt=""><span class="on">Build</span><span>Design</span><span>Model</span><span>Anim</span><span>VFX</span><span>GFX</span><span>Skills</span><span>Icons</span></nav>
-<main>
-  <section class="hero">
-    <div>
-      <h1>Hybrid for Roblox Studio</h1>
-      <p>Build game UI, editable meshes, animations, and effects. Connect an AI model when you want help.</p>
-      <a class="dl" href="https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.76/Hybrid-Setup-3.21.76.exe">Download for Windows</a>
-      <div class="meta">Version 3.21.76 &middot; 192 MB &middot; Windows 10 or 11</div>
-      <a class="install-link" href="#install">See install steps</a>
+<body id="top">
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="header wrap">
+    <a class="brand" href="#top"><img src="assets/hybrid-cloud.png" width="35" height="35" alt="">Hybrid</a>
+    <nav aria-label="Main navigation">
+      <a href="#workspaces">Workspaces</a>
+      <a href="#install">Install</a>
+      <a href="#licenses">Licenses</a>
+    </nav>
+    <a class="header-download" href="#download">Download <span aria-hidden="true">↗</span></a>
+  </header>
+  <main id="main" class="wrap">
+    <section class="hero" id="download" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="platform"><span aria-hidden="true"></span> Desktop app for Roblox creators</p>
+        <h1 id="hero-title">Your game starts <em>here.</em></h1>
+        <p class="lede">Design game UI, shape editable meshes, animate rigs, and build effects for Roblox Studio in one desktop app.</p>
+        <div class="actions">
+          <a class="button primary" href="https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.76/Hybrid-Setup-3.21.76.exe">Download for Windows <span aria-hidden="true">↓</span></a>
+          <a class="button secondary" href="#install">Install guide <span aria-hidden="true">↘</span></a>
+        </div>
+        <p class="download-meta">Version 3.21.76 &middot; 192 MB &middot; Windows 10 or 11</p>
+      </div>
+      <figure class="product tilt" data-tilt>
+        <div class="product-bar"><img src="assets/hybrid-cloud.png" width="23" height="23" alt=""><span>Hybrid</span><span class="product-label">Build workspace</span></div>
+        <img class="product-image" src="assets/hybrid-workspace.png" alt="Hybrid desktop app showing its design, modeling, animation, VFX, graphics, and sound workspaces" width="1240" height="800" fetchpriority="high">
+      </figure>
+    </section>
+    <section id="workspaces" class="section" aria-labelledby="workspace-title">
+      <div class="section-top">
+        <h2 id="workspace-title">Workspaces</h2>
+        <p>Work by hand or bring in AI when you want help.</p>
+      </div>
+      <div class="workspace-grid">
+        <article class="workspace tilt" data-tilt>
+          <img src="assets/design.jpg" alt="" loading="lazy" decoding="async">
+          <div><h3>UI design</h3><p>Make editable HUDs, menus, and shops with reference tracing and color sampling.</p></div>
+        </article>
+        <article class="workspace tilt" data-tilt>
+          <img src="assets/model.jpg" alt="" loading="lazy" decoding="async">
+          <div><h3>3D modeling</h3><p>Edit meshes, extrude faces, triangulate geometry, and export GLB files.</p></div>
+        </article>
+        <article class="workspace tilt" data-tilt>
+          <img src="assets/vfx.jpg" alt="" loading="lazy" decoding="async">
+          <div><h3>Effects and animation</h3><p>Build particle effects, animate rigs, and create backgrounds, decals, or clothing.</p></div>
+        </article>
+      </div>
+    </section>
+    <div class="details section">
+      <section class="panel" id="install" aria-labelledby="install-title">
+        <h2 id="install-title">Install Hybrid</h2>
+        <ol class="steps">
+          <li><strong>Download the installer.</strong><span>Use Download for Windows above, then open <b>Hybrid-Setup-3.21.76.exe</b> from Downloads.</span></li>
+          <li><strong>Follow Windows setup.</strong><span>When it finishes, open Hybrid from the Start menu.</span></li>
+          <li><strong>Open a workspace.</strong><span>To connect Claude, ChatGPT, or an Ollama local model, open Setup in Hybrid.</span></li>
+        </ol>
+        <p class="panel-note">Already using Hybrid? Click <strong>Update</strong> in the app.</p>
+      </section>
+      <section class="panel license" id="licenses" aria-labelledby="license-title">
+        <h2 id="license-title">Buy a license</h2>
+        <p>The app is free to download. You can request a paid license for a term from 30 days to one year.</p>
+        <div class="term" aria-label="License terms from 30 days to one year"><strong>30 days</strong><span aria-hidden="true"></span><strong>1 year</strong></div>
+        <p>Search for the username below in Discord’s Add Friend screen. Message them with the term you want. They’ll confirm pricing and send your license after purchase.</p>
+        <div class="discord-contact">
+          <span id="discord-name">rfrfrfrfijfv</span>
+          <button id="copy-discord" type="button" hidden>Copy username</button>
+        </div>
+        <p class="copy-status" id="copy-status" role="status"></p>
+      </section>
     </div>
-    <img src="icon.png" alt="Hybrid">
-  </section>
-
-  <div class="install-heading" id="install">
-    <h3>Install Hybrid</h3>
-    <a href="https://github.com/MrRichyDaDev/hybrid-downloads/releases/latest">View release on GitHub</a>
-  </div>
-  <div class="card">
-    <ol>
-      <li>Click <b>Download for Windows</b>, then open <b>Hybrid-Setup-3.21.76.exe</b> from Downloads.</li>
-      <li>Follow the setup prompts, then open <b>Hybrid</b> from the Start menu.</li>
-      <li>Choose <b>Settings</b> to connect Claude or ChatGPT, or select <b>Local models</b> if you use Ollama. If you already use Hybrid, open <b>Update</b> in the app.</li>
-    </ol>
-  </div>
-
-  <h3>Workspaces</h3>
-  <div class="grid">
-    <div><b>UI design</b><span>Editable screens, shops and HUDs, with reference tracing and color sampling</span></div>
-    <div><b>3D modeling</b><span>Editable meshes, face extrusion, triangulation and GLB export for Blender and Roblox Studio</span></div>
-    <div><b>Animation</b><span>Poses, rigs and Luau export</span></div>
-    <div><b>VFX</b><span>Particle effects, presets and recipes</span></div>
-    <div><b>GFX</b><span>Draw or generate backgrounds, icons, decals and classic clothing</span></div>
-  </div>
-
-  <h3>What’s new in 3.21.76</h3>
+    <section class="release section" aria-label="Latest release">
+      <h3>What’s new in 3.21.76</h3>
   <div class="card">Meet the new cloud logo in Hybrid and on Windows. Prompt templates now add to your draft without replacing your text.</div>
-
-  <footer>Hybrid is not made by or affiliated with Roblox. Roblox is a trademark of Roblox Corporation.</footer>
-</main>
+      <a href="https://github.com/MrRichyDaDev/hybrid-downloads/releases/latest">View release on GitHub <span aria-hidden="true">↗</span></a>
+    </section>
+  </main>
+  <footer class="footer wrap">
+    <a class="brand" href="#top"><img src="assets/hybrid-cloud.png" width="29" height="29" alt="">Hybrid</a>
+    <p>Hybrid is an independent app for Roblox creators. Roblox is a trademark of Roblox Corporation.</p>
+  </footer>
 </body>
 </html>
