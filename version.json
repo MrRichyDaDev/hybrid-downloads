@@ -1,9 +1,9 @@
 {
-  "version": "3.21.75",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.75/Hybrid-Setup-3.21.75.exe",
-  "sha256": "d7bcc8c6be8bdbbd65c4eebee93e4c88a8eb5d15213d4c7d4ae434d7c1deb085",
-  "size": 201489630,
+  "version": "3.21.76",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.76/Hybrid-Setup-3.21.76.exe",
+  "sha256": "438a913e33c25101628e7ccde99e19e50198676fcff348fdad1e00fa3ed6fa04",
+  "size": 201653808,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Fixed the Ctrl+K search going dead after closing and reopening it quickly. Restoring a profile backup now asks you to reopen Hybrid to apply it. Also new in recent updates: wedge shapes now face the same way as in Roblox. Generated maps add walk-in buildings, trees, lamps and road edging. Six built-in models were rebuilt. Many animation presets no longer sink into the floor. You can rename and pin chats, and find them with Ctrl+K."
+  "notes": "Meet the new cloud logo in Hybrid and on Windows. Prompt templates now add to your draft without replacing your text."
 }
