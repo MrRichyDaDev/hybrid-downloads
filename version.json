@@ -1,9 +1,9 @@
 {
-  "version": "3.21.74",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.74/Hybrid-Setup-3.21.74.exe",
-  "sha256": "5b037df0808058a3ca115dce6bced7088ce1a0c406ce59c9fa47b8eaafd0a10b",
-  "size": 202545437,
+  "version": "3.21.75",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.75/Hybrid-Setup-3.21.75.exe",
+  "sha256": "d7bcc8c6be8bdbbd65c4eebee93e4c88a8eb5d15213d4c7d4ae434d7c1deb085",
+  "size": 201489630,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Repair coincident mesh seams with a before-and-after preview, apply GFX artwork without stretching, and write and copy your own Hybrid review."
+  "notes": "Fixed the Ctrl+K search going dead after closing and reopening it quickly. Restoring a profile backup now asks you to reopen Hybrid to apply it. Also new in recent updates: wedge shapes now face the same way as in Roblox. Generated maps add walk-in buildings, trees, lamps and road edging. Six built-in models were rebuilt. Many animation presets no longer sink into the floor. You can rename and pin chats, and find them with Ctrl+K."
 }
