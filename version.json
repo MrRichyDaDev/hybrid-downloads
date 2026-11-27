@@ -1,9 +1,9 @@
 {
-  "version": "3.21.76",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.76/Hybrid-Setup-3.21.76.exe",
-  "sha256": "438a913e33c25101628e7ccde99e19e50198676fcff348fdad1e00fa3ed6fa04",
-  "size": 201653808,
+  "version": "3.21.78",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.78/Hybrid-Setup-3.21.78.exe",
+  "sha256": "b3b87bb2e1542485f65da7006cc3d4bfcfe1dbf3a095617fb18d585f95c72fdb",
+  "size": 201655613,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "Meet the new cloud logo in Hybrid and on Windows. Prompt templates now add to your draft without replacing your text."
+  "notes": "Set up ChatGPT, Claude, or local models from one screen. The owner panel supports custom license durations in days, hours, and minutes."
 }
