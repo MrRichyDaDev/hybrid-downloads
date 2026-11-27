@@ -1,9 +1,9 @@
 {
-  "version": "3.21.71",
-  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.71/Hybrid-Setup-3.21.71.exe",
-  "sha256": "1fe5312dcf7ef9ebdf233ee6ea7f76e7de6d06577b5a5f50ab1a6e115b5341df",
-  "size": 201477910,
+  "version": "3.21.74",
+  "url": "https://github.com/MrRichyDaDev/hybrid-downloads/releases/download/v3.21.74/Hybrid-Setup-3.21.74.exe",
+  "sha256": "5b037df0808058a3ca115dce6bced7088ce1a0c406ce59c9fa47b8eaafd0a10b",
+  "size": 202545437,
   "force": true,
   "minVersion": "3.21.10",
-  "notes": "New picture cards on the home screen, smaller prompt boxes and smoother motion. Effect recipes now include flashes, shockwave rings, light beams, bolts and slashes, with a better preview. The animation preview has a new lit stage and hand and foot motion trails. Modeling adds smooth, low poly, semi-realistic and realistic sculpt styles, painted surface shading for mesh parts, and a Render button."
+  "notes": "Repair coincident mesh seams with a before-and-after preview, apply GFX artwork without stretching, and write and copy your own Hybrid review."
 }
